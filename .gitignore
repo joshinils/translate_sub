@@ -1,0 +1,10 @@
+*.csv
+*_html
+*.json
+movies
+movies/*
+download_commands
+__pycache__
+cookie_*
+user_cookies
+*.log
